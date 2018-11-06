@@ -1,0 +1,15 @@
+{
+  "name": "ethereum-bip44-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "demo-new": "node demo-new-wallet.js",
+    "demo-existing": "node demo-existing-wallet.js",
+    "demo-existing-public": "node demo-existing-public-wallet.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereum-bip44": "^2.1.3"
+  }
+}
